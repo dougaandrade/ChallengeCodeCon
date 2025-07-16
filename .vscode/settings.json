@@ -1,4 +1,5 @@
 {
   "java.compile.nullAnalysis.mode": "automatic",
-  "editor.fontFamily": "Fira Code"
+  "editor.fontFamily": "Fira Code",
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
